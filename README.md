@@ -14,7 +14,7 @@ microsoft.com
 See some of the subdirectories for sample usage.
 
 - Create an AWX (Ansible Web UI)server for demo (INPG)
-- Create application server for develpers on everyday with same spec and destroy when finished
+- Create application server for develpors on everyday with same spec and destroy when finished
 - Create a webserver with nginx installed and configured in GCP or AWS
 - Create Yum Repo server
 - Deploy OpenShift (OKD) Single node cluster
